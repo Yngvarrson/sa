@@ -1,16 +1,19 @@
 .header1 {
     text-align: center;
     }
-    .header2 {
-        text-align: center;
-    }
     .photo {
-        width: 15%;
-        height: 15%;
+        width: 8%;
+        height: 8%;
         display: block;
         margin: auto;
     }
     .Head {
+        font-size: 25px;
+        font-family: 'DM Sans', sans-serif;
         color: rgb(6, 17, 119);
 
+    }
+    .last_list {
+        text-decoration: underline dashed 2px ; 
+        
     }
