@@ -6,6 +6,9 @@
         height: 15%;
         display: block;
         margin: auto;
+        border-radius: 50%;
+        object-fit: cover;
+        
     }
     .Head {
         font-size: 25px;
