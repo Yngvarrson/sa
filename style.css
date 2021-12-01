@@ -2,8 +2,8 @@
     text-align: center;
     }
     .photo {
-        width: 8%;
-        height: 8%;
+        width: 15%;
+        height: 15%;
         display: block;
         margin: auto;
     }
@@ -16,4 +16,8 @@
     .last_list {
         text-decoration: underline dashed 2px ; 
         
+    }
+    .div {
+        
+        padding: 0px 200px 100px;
     }
