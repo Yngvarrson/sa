@@ -1,0 +1,22 @@
+.main-article{
+    font-size: 60px;
+    color: brown;
+    border: 2px solid rgb(175, 236, 31);
+}
+
+.main-header {
+    border: inherit;
+    color: initial;
+    
+
+
+}
+
+.article-content {
+    font-size: 40px;
+
+}
+.Link {
+    text-decoration: none;
+    color: inherit;
+}
